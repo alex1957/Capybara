@@ -31,7 +31,7 @@
       <file leaf-file-name="test_sliders.feature" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CapybaraCucumber/features/test_sliders.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="9" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="375">
+            <state line="16" column="9" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
               <folding />
             </state>
           </provider>
@@ -40,7 +40,25 @@
       <file leaf-file-name="sliders_steps.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CapybaraCucumber/features/step_definitions/sliders_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="3" selection-start="1547" selection-end="1547" vertical-scroll-proportion="0.8005618" vertical-offset="0" max-vertical-offset="712">
+            <state line="38" column="3" selection-start="1547" selection-end="1547" vertical-scroll-proportion="0.5798576" vertical-offset="0" max-vertical-offset="983">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Temp.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Temp.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="31" selection-start="126" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_script.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_script.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="7" selection-start="733" selection-end="872" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
               <folding />
             </state>
           </provider>
@@ -442,7 +460,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1054" extended-state="0" />
+    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -480,9 +498,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32937685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32937685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -780,26 +798,9 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="983" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Temp.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="31" selection-start="126" selection-end="155" vertical-scroll-proportion="0.07629705" vertical-offset="0" max-vertical-offset="983" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_script.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="7" selection-start="733" selection-end="872" vertical-scroll-proportion="0.64615387" vertical-offset="0" max-vertical-offset="650" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CapybaraCucumber/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CapybaraCucumber/features/test_sliders.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="9" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
           <folding />
         </state>
       </provider>
@@ -818,9 +819,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Temp.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="31" selection-start="126" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_script.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="7" selection-start="733" selection-end="872" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CapybaraCucumber/features/test_sliders.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="9" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CapybaraCucumber/features/step_definitions/sliders_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="3" selection-start="1547" selection-end="1547" vertical-scroll-proportion="0.8005618" vertical-offset="0" max-vertical-offset="712">
+        <state line="38" column="3" selection-start="1547" selection-end="1547" vertical-scroll-proportion="0.5798576" vertical-offset="0" max-vertical-offset="983">
           <folding />
         </state>
       </provider>
